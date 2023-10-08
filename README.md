@@ -1,4 +1,4 @@
-# CEva ![CEva](logo.png)
+# CEva ![CEva](logo.png){:height="10%" width="10%"}
 ![CEva](logo_rec.png)
 
 ## 关于希娃 About
