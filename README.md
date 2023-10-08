@@ -1,5 +1,4 @@
-# CEva ![CEva](logo.png){:height="10%" width="10%"}
-![CEva](logo_rec.png)
+# CEva  <img src="logo.png" width = "10%" height = "10%" alt="CEva" />
 
 ## 关于希娃 About
 
