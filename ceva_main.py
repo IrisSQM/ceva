@@ -255,11 +255,11 @@ if lan == "ENG":
         p_total = p1_sc + p2_sc + p3_sc + p4_sc + p5_sc
         total = pa_total+d_total+wl_total+p_total
 
-        if total > 80:
+        if total >= 80:
            total_eva = f"which is above or equals to 80. **It fits you well.**"
-        elif total > 70:
+        elif total >= 70:
            total_eva = f"which is above or equals to 70. **It is a good opportunity.**"
-        elif total > 60:
+        elif total >= 60:
            total_eva = f"which is above or equals to 60. **It is acceptable.**"
         else:
            total_eva = f"which is below 60. **Maybe you would like to think twice.**"
@@ -563,11 +563,11 @@ elif lan == "中文":   # 中文版
         p_total = p1_sc + p2_sc + p3_sc + p4_sc + p5_sc
         total = pa_total+d_total+wl_total+p_total
 
-        if total > 80:
+        if total >= 80:
            total_eva = f"高于（等于）80分。**这个职位非常适合你。**"
-        elif total > 70:
+        elif total >= 70:
            total_eva = f"高于（等于）70分。**这是个好机会。**"
-        elif total > 60:
+        elif total >= 60:
            total_eva = f"高于（等于）60分。**这个机会还行。**"
         else:
            total_eva = f"低于60分。**你可能要好好想想。**"
